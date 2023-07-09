@@ -1,0 +1,8 @@
+// Your custom variables
+$mycolor: red;
+
+.btn-primary {
+    background-color: $mycolor;
+}
+
+@import 'mdb-ui-kit/css/mdb.min.css';
